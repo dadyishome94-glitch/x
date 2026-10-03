@@ -1,1 +1,5 @@
 add new text
+
+git branch // list all branches 
+git branch branch_name // create new branch 
+git switch/checkout branch_name 
